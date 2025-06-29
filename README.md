@@ -9,7 +9,7 @@
 
 - All of my projects are available here: [https://github.com/kpuentec?tab=repositories](https://github.com/kpuentec?tab=repositories)
 
-- How to reach me **kcortez1130@gmail.com** or **linkedin.com/in/kpcortez/**
+- How to reach me **kcortez1130@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
