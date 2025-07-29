@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I am Kevin Puente Cortez</h1>
-<h3 align="center">A passionate cybersecurity enthusiast, programmer, and ML learner from Maryland.</h3>
+<h3 align="center">A passionate cybersecurity enthusiast, programmer, and ML student from Maryland.</h3>
 
 - Currently studying **Computer Science at the University of Maryland (Class of 2027)**
 
