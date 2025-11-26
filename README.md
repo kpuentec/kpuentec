@@ -1,11 +1,11 @@
 <h1 align="center">Hello! I am Kevin Puente Cortez</h1>
-<h3 align="center">A passionate cybersecurity enthusiast, programmer, and ML student from Maryland.</h3>
+<h3 align="center">A cybersecurity-focused programmer and software engineering student from Maryland</h3>
 
 - Currently studying **Computer Science at the University of Maryland (Class of 2027)**
 
-- I’m currently learning **about building secure systems and LLMs**
+- I’m currently learning **about building secure systems and software engineering**
 
-- Learning about **cybersecurity, networking tools, and AI agents**
+- Learning **cybersecurity, networking, and software engineering**
 
 - All of my projects are available here: [https://github.com/kpuentec?tab=repositories](https://github.com/kpuentec?tab=repositories)
 
