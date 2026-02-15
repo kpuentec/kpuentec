@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I use</h2>
+<h2 align="left"></h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left"></h2>
 
 ###
 
