@@ -1,22 +1,16 @@
-<h1 align="left">Hello! My name is Kevin</h1>
+# Hello, I'm Kevin 👋
 
-###
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=50C878&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+CompSci+Student;Cybersecurity+Enthusiast;" alt="Typing SVG" />
+</div>
 
-<p align="left">A cybersecurity-focused programmer and software engineering student from Maryland</p>
+---
 
-###
+## About
 
-<h2 align="left">About me</h2>
+Currently studying Computer Science at the University of Maryland(2023-2027)<br><br>I’m currently learning about building secure systems and software engineering<br><br>Learning cybersecurity, networking, and software engineering<br><br>All of my projects are available here: https://github.com/kpuentec?tab=repositories
 
-###
-
-<p align="left">Currently studying Computer Science at the University of Maryland (Class of 2027)<br><br>I’m currently learning about building secure systems and software engineering<br><br>Learning cybersecurity, networking, and software engineering<br><br>All of my projects are available here: https://github.com/kpuentec?tab=repositories</p>
-
-###
-
-<h2 align="left"></h2>
-
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -34,15 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-###
+---
 
-<h2 align="left"></h2>
+## Connect with me professionally
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kpcortez/)
