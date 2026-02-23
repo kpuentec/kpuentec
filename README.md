@@ -1,4 +1,4 @@
-# Hello, I'm Kevin 👋 [![WEBSITE](https://img.shields.io/badge/-WEBSITE-0077B5?style=flat&logo=website&logoColor=white)](https://kevincortez.vercel.app/)
+# Hello, I'm Kevin 👋
 
 
 <div align="center">
@@ -32,5 +32,6 @@ Currently studying Computer Science at the University of Maryland(2023-2027)<br>
 ---
 
 ## Connect with me professionally
+[![WEBSITE](https://img.shields.io/badge/-Website-0077B5?style=flat&logo=website&logoColor=white)](https://kevincortez.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kpcortez/)
