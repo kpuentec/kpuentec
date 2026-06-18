@@ -9,7 +9,7 @@
 
 ## About
 
-Currently studying Computer Science at the University of Maryland(2023-2027)<br><br>I’m currently learning about building secure systems and software engineering<br><br>Learning cybersecurity, networking, and software engineering<br><br>All of my projects are available here: https://github.com/kpuentec?tab=repositories
+Currently studying Computer Science at the University of Maryland<br><br>I’m currently learning about building secure systems and software engineering<br><br>Learning cybersecurity, networking, and software engineering<br><br>All of my projects are available here: https://github.com/kpuentec?tab=repositories
 
 ---
 
